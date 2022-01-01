@@ -1,0 +1,84 @@
+{
+  "menu": [
+    {
+      "jenis": "Makanan",
+      "nama": "Nasi Pecel",
+      "deskripsi": "Nasi, sayuran masak dan saus kacang",
+      "harga": 20000,
+      "estimasi": 4.8,
+      "gambar": "nasiPecel.jpg"
+    },
+    {
+      "jenis": "Minuman",
+      "nama": "Matemateaka",
+      "deskripsi": "Teh manis rumus matematika lengkap",
+      "harga": 5000,
+      "estimasi": 4.8,
+      "gambar": "EsTeh.jpg"
+    },
+    {
+      "jenis": "Dessert",
+      "nama": "Pudding",
+      "deskripsi": "Pudding manis rasa mangga",
+      "harga": 15000,
+      "estimasi": 4.8,
+      "gambar": "puding.jpg"
+    },
+    {
+      "jenis": "Minuman",
+      "nama": "Es Jeruk",
+      "deskripsi": "Es jeruk segar dingin",
+      "harga": 15000,
+      "estimasi": 4.8,
+      "gambar": "esJeruk.jpg"
+    },
+    {
+      "jenis": "Dessert",
+      "nama": "Pukis Keju",
+      "deskripsi": "Pukis lembut, potongan keju",
+      "harga": 10000,
+      "estimasi": 4.9,
+      "gambar": "pukisKeju.jpg"
+    },
+    {
+      "jenis": "Makanan",
+      "nama": "Nasi Goreng",
+      "deskripsi": "Nasi goreng + telur + seafood",
+      "harga": 25000,
+      "estimasi": 4.7,
+      "gambar": "nasiGoreng.jpg"
+    },
+    {
+      "jenis": "Minuman",
+      "nama": "Jus Mangga",
+      "deskripsi": "Jus mangga dengan kualitas tinggi",
+      "harga": 15000,
+      "estimasi": 4.8,
+      "gambar": "jusMango.jpg"
+    },
+    {
+      "jenis": "Minuman",
+      "nama": "Chocolate",
+      "deskripsi": "Hot Chocolate",
+      "harga": 20000,
+      "estimasi": 4.8,
+      "gambar": "cokelat.jpg"
+    },
+    {
+      "jenis": "Makanan",
+      "nama": "Gado-gado",
+      "deskripsi": "Sayuran masak + Telur + Saus Kacang",
+      "harga": 20000,
+      "estimasi": 4.8,
+      "gambar": "gadoGado.jpg"
+    },
+    {
+      "jenis": "Dessert",
+      "nama": "Pisang Goreng",
+      "deskripsi": "Pisang goreng kepok kriuk",
+      "harga": 15000,
+      "estimasi": 4.8,
+      "gambar": "pisangGoreng.jpg"
+    }
+  ]
+}
